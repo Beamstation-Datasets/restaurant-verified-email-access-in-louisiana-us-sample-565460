@@ -1,0 +1,12 @@
+{
+  "export_job_id": "50ab4442-48ac-46da-8a0d-4c9942428cf9",
+  "id_short": 565460,
+  "published_at": "2026-04-13T19:25:17Z",
+  "repo_name": "restaurant-verified-email-access-in-louisiana-us-sample-565460",
+  "sample_asset_name": "beamstation_565460_restaurants-us-la_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/565460/beamstation_565460_restaurants-us-la_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "a5cfb3372711c23df2e24aa70a8314488cfbb664d363b4d00cb487a8ad5e7444",
+  "sample_size_bytes": 56501,
+  "total_records": 932
+}
