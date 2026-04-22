@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Louisiana, US
 
-> Free BeamStation sample export with 176 rows and masked direct-contact fields.
+> Free BeamStation sample export with 125 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `565460` |
 | Location | Louisiana |
 | Category | Restaurants |
-| Full dataset size | 1,768 records |
-| Free sample size | 176 records (9.95%) |
-| Last export | 2026-04-15T03:49:07.209192+00:00 |
+| Full dataset size | 1,259 records |
+| Free sample size | 125 records (9.93%) |
+| Last export | 2026-04-22T09:15:35.249681+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-louisiana-us-sample-565460/releases/download/sample-latest/beamstation_565460_restaurants-us-la_SAMPLE_DIST.csv) |
 
 ## What is in this sample
